@@ -1,0 +1,49 @@
+timetable_P3112_for_thursday: 
+  first_lesson_all_weeks: 
+    day: 'Чт'
+    time:
+      time_of_lesson: '08:20-09:50'
+      even_or_add_week: ' '
+    room:
+      audience: '466 ауд.'
+      place: 'Кронверкский пр., д.49, лит.А'
+    lesson:
+      what_lesson: 'Математика (базовый уровень)(Лек)'
+      teacher: 'Возианова Анна'
+    lesson_format: 'Очно - дистанционный'
+  second_lesson_even_weeks: 
+    day: ' '
+    time:
+      time_of_lesson: '10:00-11:30'
+      even_or_add_week: 'четная неделя'
+    room: 
+      audience: 'АКТОВЫЙ ЗАЛ'
+      place: 'Кронверкский пр., д.49, лит.А'
+    lesson: 
+      what-lesson: 'ПРОГРАММИРОВАНИЕ(ЛЕК)'
+      teacher: 'Письмак Алексей Евгеньевич'
+    lesson_format: 'Очно - дистанционный'
+  second_lesson_odd_weeks: 
+    day: ' '
+    time:
+      time_of_lesson: '10:00-11:30'
+      even_or_add_week: 'нечетная неделя'
+    room: 
+      audience: 'АКТОВЫЙ ЗАЛ'
+      place: 'Кронверкский пр., д.49, лит.А'
+    lesson: 
+      what_lesson: 'ИНФОРМАТИКА(ЛЕК)'
+      teacher: 'Балакшин Павел Валерьевич'
+    lesson-format: 'Очно - дистанционный'
+  third_lesson_even_weeks: 
+    day: ' '
+    time: 
+      time_of_lesson: '11:40-13:10'
+      even_or_add_week: 'нечетная неделя'
+    room: 
+      audience: 'АКТОВЫЙ ЗАЛ'
+      place: 'Кронверкский пр., д.49, лит.А'
+    lesson: 
+      what_lesson: 'ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)'
+      teacher: 'Клименков Сергей Викторович'
+    lesson_format: 'Очно - дистанционный'

@@ -1,0 +1,66 @@
+<timetable_P3112_for_thursday>
+  <first_lesson_all_weeks>
+    <day>Чт</day>
+    <time>
+      <time_of_lesson>08:20-09:50</time_of_lesson>
+      <even_or_add_week></even_or_add_week>
+    </time>
+    <room>
+      <audience>466 ауд.</audience>
+      <place>Кронверкский пр., д.49, лит.А</place>
+    </room>
+    <lesson>
+      <what_lesson>Математика (базовый уровень)(Лек)</what_lesson>
+      <teacher>Возианова Анна</teacher>
+    </lesson>
+    <lesson_format>Очно - дистанционный</lesson_format>
+  </first_lesson_all_weeks>
+  <second_lesson_even_weeks>
+    <day></day>
+    <time>
+      <time_of_lesson>10:00-11:30</time_of_lesson>
+      <even_or_add_week>четная неделя</even_or_add_week>
+    </time>
+    <room>
+      <audience>АКТОВЫЙ ЗАЛ</audience>
+      <place>Кронверкский пр., д.49, лит.А</place>
+    </room>
+    <lesson>
+      <what-lesson>ПРОГРАММИРОВАНИЕ(ЛЕК)</what-lesson>
+      <teacher>Письмак Алексей Евгеньевич</teacher>
+    </lesson>
+    <lesson_format>Очно - дистанционный</lesson_format>
+  </second_lesson_even_weeks>
+  <second_lesson_odd_weeks>
+    <day></day>
+    <time>
+      <time_of_lesson>10:00-11:30</time_of_lesson>
+      <even_or_add_week>нечетная неделя</even_or_add_week>
+    </time>
+    <room>
+      <audience>АКТОВЫЙ ЗАЛ</audience>
+      <place>Кронверкский пр., д.49, лит.А</place>
+    </room>
+    <lesson>
+      <what_lesson>ИНФОРМАТИКА(ЛЕК)</what_lesson>
+      <teacher>Балакшин Павел Валерьевич</teacher>
+    </lesson>
+    <lesson-format>Очно - дистанционный</lesson-format>
+  </second_lesson_odd_weeks>
+  <third_lesson_even_weeks>
+    <day></day>
+    <time>
+      <time_of_lesson>11:40-13:10</time_of_lesson>
+      <even_or_add_week>нечетная неделя</even_or_add_week>
+    </time>
+    <room>
+      <audience>АКТОВЫЙ ЗАЛ</audience>
+      <place>Кронверкский пр., д.49, лит.А</place>
+    </room>
+    <lesson>
+      <what_lesson>ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ(ЛЕК)</what_lesson>
+      <teacher>Клименков Сергей Викторович</teacher>
+    </lesson>
+    <lesson_format>Очно - дистанционный</lesson_format>
+  </third_lesson_even_weeks>
+</timetable_P3112_for_thursday>
